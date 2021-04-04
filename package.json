@@ -22,6 +22,10 @@
   }
 },
 "repository": {
-  "type": "git",
-  "url": "git+"
-},
+    "type": "git",
+    "url": "git+https://github.com/SadesXD/Discord-Anti-Alt"
+  },
+  "homepage": "https://https://github.com/LaAli1212/Simple-System-bot/blob/main/README.md",
+  "bugs": {
+    "url": "https://github.com/LaAli1212/Simple-System-bot/issues"
+  }
